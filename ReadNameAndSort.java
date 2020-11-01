@@ -17,7 +17,7 @@ public class ReadNameAndSort {
 	public static void main(String[] args) throws IOException  {
 		// TODO Auto-generated method stub
 
-		ReadNameAndSort f1=  new ReadNameAndSort();
+ReadNameAndSort f1=  new ReadNameAndSort();
 String filepath="C:/Testfiles/employees.txt";
 f1.readMyEmployeeListInAscendingOrder(filepath);
 //f1.sortMyArrayAndPrint(UnsortedNames);
